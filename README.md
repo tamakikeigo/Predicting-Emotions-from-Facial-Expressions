@@ -1,1 +1,1 @@
-# Prediction-Emotions-from-Facial-Expressions
+# Predicting-Emotions-from-Facial-Expressions
